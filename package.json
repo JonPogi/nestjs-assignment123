@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "assignment-2-prime-number",
+=======
+  "name": "assignment-1-fibonacci-sequence",
+>>>>>>> d58ebc7954963ee4dc52ec3e230a19731c87bbf1
   "version": "0.0.1",
   "description": "",
   "author": "",
